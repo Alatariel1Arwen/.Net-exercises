@@ -1,0 +1,15 @@
+C:\Users\Michela\source\repos\AccessDenied\AccessDenied\bin\Debug\net6.0\AccessDenied.exe
+C:\Users\Michela\source\repos\AccessDenied\AccessDenied\bin\Debug\net6.0\AccessDenied.deps.json
+C:\Users\Michela\source\repos\AccessDenied\AccessDenied\bin\Debug\net6.0\AccessDenied.runtimeconfig.json
+C:\Users\Michela\source\repos\AccessDenied\AccessDenied\bin\Debug\net6.0\AccessDenied.dll
+C:\Users\Michela\source\repos\AccessDenied\AccessDenied\bin\Debug\net6.0\AccessDenied.pdb
+C:\Users\Michela\source\repos\AccessDenied\AccessDenied\obj\Debug\net6.0\AccessDenied.csproj.AssemblyReference.cache
+C:\Users\Michela\source\repos\AccessDenied\AccessDenied\obj\Debug\net6.0\AccessDenied.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michela\source\repos\AccessDenied\AccessDenied\obj\Debug\net6.0\AccessDenied.AssemblyInfoInputs.cache
+C:\Users\Michela\source\repos\AccessDenied\AccessDenied\obj\Debug\net6.0\AccessDenied.AssemblyInfo.cs
+C:\Users\Michela\source\repos\AccessDenied\AccessDenied\obj\Debug\net6.0\AccessDenied.csproj.CoreCompileInputs.cache
+C:\Users\Michela\source\repos\AccessDenied\AccessDenied\obj\Debug\net6.0\AccessDenied.dll
+C:\Users\Michela\source\repos\AccessDenied\AccessDenied\obj\Debug\net6.0\refint\AccessDenied.dll
+C:\Users\Michela\source\repos\AccessDenied\AccessDenied\obj\Debug\net6.0\AccessDenied.pdb
+C:\Users\Michela\source\repos\AccessDenied\AccessDenied\obj\Debug\net6.0\AccessDenied.genruntimeconfig.cache
+C:\Users\Michela\source\repos\AccessDenied\AccessDenied\obj\Debug\net6.0\ref\AccessDenied.dll
