@@ -1,0 +1,5 @@
+C:\Users\Michela\source\repos\FahrenheitToCelsiusReverse\FahrenheitToCelsiusReverse\obj\Debug\net6.0\FahrenheitToCelsiusReverse.csproj.AssemblyReference.cache
+C:\Users\Michela\source\repos\FahrenheitToCelsiusReverse\FahrenheitToCelsiusReverse\obj\Debug\net6.0\FahrenheitToCelsiusReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michela\source\repos\FahrenheitToCelsiusReverse\FahrenheitToCelsiusReverse\obj\Debug\net6.0\FahrenheitToCelsiusReverse.AssemblyInfoInputs.cache
+C:\Users\Michela\source\repos\FahrenheitToCelsiusReverse\FahrenheitToCelsiusReverse\obj\Debug\net6.0\FahrenheitToCelsiusReverse.AssemblyInfo.cs
+C:\Users\Michela\source\repos\FahrenheitToCelsiusReverse\FahrenheitToCelsiusReverse\obj\Debug\net6.0\FahrenheitToCelsiusReverse.csproj.CoreCompileInputs.cache
