@@ -1,0 +1,15 @@
+C:\Users\Michela\source\repos\Pick'nMix\Pick'nMix\bin\Debug\net6.0\Pick'nMix.exe
+C:\Users\Michela\source\repos\Pick'nMix\Pick'nMix\bin\Debug\net6.0\Pick'nMix.deps.json
+C:\Users\Michela\source\repos\Pick'nMix\Pick'nMix\bin\Debug\net6.0\Pick'nMix.runtimeconfig.json
+C:\Users\Michela\source\repos\Pick'nMix\Pick'nMix\bin\Debug\net6.0\Pick'nMix.dll
+C:\Users\Michela\source\repos\Pick'nMix\Pick'nMix\bin\Debug\net6.0\Pick'nMix.pdb
+C:\Users\Michela\source\repos\Pick'nMix\Pick'nMix\obj\Debug\net6.0\Pick'nMix.csproj.AssemblyReference.cache
+C:\Users\Michela\source\repos\Pick'nMix\Pick'nMix\obj\Debug\net6.0\Pick'nMix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michela\source\repos\Pick'nMix\Pick'nMix\obj\Debug\net6.0\Pick'nMix.AssemblyInfoInputs.cache
+C:\Users\Michela\source\repos\Pick'nMix\Pick'nMix\obj\Debug\net6.0\Pick'nMix.AssemblyInfo.cs
+C:\Users\Michela\source\repos\Pick'nMix\Pick'nMix\obj\Debug\net6.0\Pick'nMix.csproj.CoreCompileInputs.cache
+C:\Users\Michela\source\repos\Pick'nMix\Pick'nMix\obj\Debug\net6.0\Pick'nMix.dll
+C:\Users\Michela\source\repos\Pick'nMix\Pick'nMix\obj\Debug\net6.0\refint\Pick'nMix.dll
+C:\Users\Michela\source\repos\Pick'nMix\Pick'nMix\obj\Debug\net6.0\Pick'nMix.pdb
+C:\Users\Michela\source\repos\Pick'nMix\Pick'nMix\obj\Debug\net6.0\Pick'nMix.genruntimeconfig.cache
+C:\Users\Michela\source\repos\Pick'nMix\Pick'nMix\obj\Debug\net6.0\ref\Pick'nMix.dll
