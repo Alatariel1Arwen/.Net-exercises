@@ -1,0 +1,15 @@
+C:\Users\Michela\source\repos\MinAndMax\MinAndMax\bin\Debug\net6.0\MinAndMax.exe
+C:\Users\Michela\source\repos\MinAndMax\MinAndMax\bin\Debug\net6.0\MinAndMax.deps.json
+C:\Users\Michela\source\repos\MinAndMax\MinAndMax\bin\Debug\net6.0\MinAndMax.runtimeconfig.json
+C:\Users\Michela\source\repos\MinAndMax\MinAndMax\bin\Debug\net6.0\MinAndMax.dll
+C:\Users\Michela\source\repos\MinAndMax\MinAndMax\bin\Debug\net6.0\MinAndMax.pdb
+C:\Users\Michela\source\repos\MinAndMax\MinAndMax\obj\Debug\net6.0\MinAndMax.csproj.AssemblyReference.cache
+C:\Users\Michela\source\repos\MinAndMax\MinAndMax\obj\Debug\net6.0\MinAndMax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michela\source\repos\MinAndMax\MinAndMax\obj\Debug\net6.0\MinAndMax.AssemblyInfoInputs.cache
+C:\Users\Michela\source\repos\MinAndMax\MinAndMax\obj\Debug\net6.0\MinAndMax.AssemblyInfo.cs
+C:\Users\Michela\source\repos\MinAndMax\MinAndMax\obj\Debug\net6.0\MinAndMax.csproj.CoreCompileInputs.cache
+C:\Users\Michela\source\repos\MinAndMax\MinAndMax\obj\Debug\net6.0\MinAndMax.dll
+C:\Users\Michela\source\repos\MinAndMax\MinAndMax\obj\Debug\net6.0\refint\MinAndMax.dll
+C:\Users\Michela\source\repos\MinAndMax\MinAndMax\obj\Debug\net6.0\MinAndMax.pdb
+C:\Users\Michela\source\repos\MinAndMax\MinAndMax\obj\Debug\net6.0\MinAndMax.genruntimeconfig.cache
+C:\Users\Michela\source\repos\MinAndMax\MinAndMax\obj\Debug\net6.0\ref\MinAndMax.dll
