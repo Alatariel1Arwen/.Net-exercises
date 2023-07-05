@@ -1,0 +1,15 @@
+C:\Users\Michela\source\repos\QueueingItems\QueueingItems\bin\Debug\net6.0\QueueingItems.exe
+C:\Users\Michela\source\repos\QueueingItems\QueueingItems\bin\Debug\net6.0\QueueingItems.deps.json
+C:\Users\Michela\source\repos\QueueingItems\QueueingItems\bin\Debug\net6.0\QueueingItems.runtimeconfig.json
+C:\Users\Michela\source\repos\QueueingItems\QueueingItems\bin\Debug\net6.0\QueueingItems.dll
+C:\Users\Michela\source\repos\QueueingItems\QueueingItems\bin\Debug\net6.0\QueueingItems.pdb
+C:\Users\Michela\source\repos\QueueingItems\QueueingItems\obj\Debug\net6.0\QueueingItems.csproj.AssemblyReference.cache
+C:\Users\Michela\source\repos\QueueingItems\QueueingItems\obj\Debug\net6.0\QueueingItems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michela\source\repos\QueueingItems\QueueingItems\obj\Debug\net6.0\QueueingItems.AssemblyInfoInputs.cache
+C:\Users\Michela\source\repos\QueueingItems\QueueingItems\obj\Debug\net6.0\QueueingItems.AssemblyInfo.cs
+C:\Users\Michela\source\repos\QueueingItems\QueueingItems\obj\Debug\net6.0\QueueingItems.csproj.CoreCompileInputs.cache
+C:\Users\Michela\source\repos\QueueingItems\QueueingItems\obj\Debug\net6.0\QueueingItems.dll
+C:\Users\Michela\source\repos\QueueingItems\QueueingItems\obj\Debug\net6.0\refint\QueueingItems.dll
+C:\Users\Michela\source\repos\QueueingItems\QueueingItems\obj\Debug\net6.0\QueueingItems.pdb
+C:\Users\Michela\source\repos\QueueingItems\QueueingItems\obj\Debug\net6.0\QueueingItems.genruntimeconfig.cache
+C:\Users\Michela\source\repos\QueueingItems\QueueingItems\obj\Debug\net6.0\ref\QueueingItems.dll
