@@ -1,0 +1,15 @@
+C:\Users\Michela\source\repos\QueryAListOfIntegers\QueryAListOfIntegers\bin\Debug\net6.0\QueryAListOfIntegers.exe
+C:\Users\Michela\source\repos\QueryAListOfIntegers\QueryAListOfIntegers\bin\Debug\net6.0\QueryAListOfIntegers.deps.json
+C:\Users\Michela\source\repos\QueryAListOfIntegers\QueryAListOfIntegers\bin\Debug\net6.0\QueryAListOfIntegers.runtimeconfig.json
+C:\Users\Michela\source\repos\QueryAListOfIntegers\QueryAListOfIntegers\bin\Debug\net6.0\QueryAListOfIntegers.dll
+C:\Users\Michela\source\repos\QueryAListOfIntegers\QueryAListOfIntegers\bin\Debug\net6.0\QueryAListOfIntegers.pdb
+C:\Users\Michela\source\repos\QueryAListOfIntegers\QueryAListOfIntegers\obj\Debug\net6.0\QueryAListOfIntegers.csproj.AssemblyReference.cache
+C:\Users\Michela\source\repos\QueryAListOfIntegers\QueryAListOfIntegers\obj\Debug\net6.0\QueryAListOfIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michela\source\repos\QueryAListOfIntegers\QueryAListOfIntegers\obj\Debug\net6.0\QueryAListOfIntegers.AssemblyInfoInputs.cache
+C:\Users\Michela\source\repos\QueryAListOfIntegers\QueryAListOfIntegers\obj\Debug\net6.0\QueryAListOfIntegers.AssemblyInfo.cs
+C:\Users\Michela\source\repos\QueryAListOfIntegers\QueryAListOfIntegers\obj\Debug\net6.0\QueryAListOfIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Michela\source\repos\QueryAListOfIntegers\QueryAListOfIntegers\obj\Debug\net6.0\QueryAListOfIntegers.dll
+C:\Users\Michela\source\repos\QueryAListOfIntegers\QueryAListOfIntegers\obj\Debug\net6.0\refint\QueryAListOfIntegers.dll
+C:\Users\Michela\source\repos\QueryAListOfIntegers\QueryAListOfIntegers\obj\Debug\net6.0\QueryAListOfIntegers.pdb
+C:\Users\Michela\source\repos\QueryAListOfIntegers\QueryAListOfIntegers\obj\Debug\net6.0\QueryAListOfIntegers.genruntimeconfig.cache
+C:\Users\Michela\source\repos\QueryAListOfIntegers\QueryAListOfIntegers\obj\Debug\net6.0\ref\QueryAListOfIntegers.dll
