@@ -1,0 +1,15 @@
+C:\Users\Michela\source\repos\StackingItems\StackingItems\bin\Debug\net6.0\StackingItems.exe
+C:\Users\Michela\source\repos\StackingItems\StackingItems\bin\Debug\net6.0\StackingItems.deps.json
+C:\Users\Michela\source\repos\StackingItems\StackingItems\bin\Debug\net6.0\StackingItems.runtimeconfig.json
+C:\Users\Michela\source\repos\StackingItems\StackingItems\bin\Debug\net6.0\StackingItems.dll
+C:\Users\Michela\source\repos\StackingItems\StackingItems\bin\Debug\net6.0\StackingItems.pdb
+C:\Users\Michela\source\repos\StackingItems\StackingItems\obj\Debug\net6.0\StackingItems.csproj.AssemblyReference.cache
+C:\Users\Michela\source\repos\StackingItems\StackingItems\obj\Debug\net6.0\StackingItems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michela\source\repos\StackingItems\StackingItems\obj\Debug\net6.0\StackingItems.AssemblyInfoInputs.cache
+C:\Users\Michela\source\repos\StackingItems\StackingItems\obj\Debug\net6.0\StackingItems.AssemblyInfo.cs
+C:\Users\Michela\source\repos\StackingItems\StackingItems\obj\Debug\net6.0\StackingItems.csproj.CoreCompileInputs.cache
+C:\Users\Michela\source\repos\StackingItems\StackingItems\obj\Debug\net6.0\StackingItems.dll
+C:\Users\Michela\source\repos\StackingItems\StackingItems\obj\Debug\net6.0\refint\StackingItems.dll
+C:\Users\Michela\source\repos\StackingItems\StackingItems\obj\Debug\net6.0\StackingItems.pdb
+C:\Users\Michela\source\repos\StackingItems\StackingItems\obj\Debug\net6.0\StackingItems.genruntimeconfig.cache
+C:\Users\Michela\source\repos\StackingItems\StackingItems\obj\Debug\net6.0\ref\StackingItems.dll
