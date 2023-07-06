@@ -1,0 +1,15 @@
+C:\Users\Michela\Desktop\repos\ClearAndConcise\ClearAndSoncise\bin\Debug\net6.0\ClearAndConcise.exe
+C:\Users\Michela\Desktop\repos\ClearAndConcise\ClearAndSoncise\bin\Debug\net6.0\ClearAndConcise.deps.json
+C:\Users\Michela\Desktop\repos\ClearAndConcise\ClearAndSoncise\bin\Debug\net6.0\ClearAndConcise.runtimeconfig.json
+C:\Users\Michela\Desktop\repos\ClearAndConcise\ClearAndSoncise\bin\Debug\net6.0\ClearAndConcise.dll
+C:\Users\Michela\Desktop\repos\ClearAndConcise\ClearAndSoncise\bin\Debug\net6.0\ClearAndConcise.pdb
+C:\Users\Michela\Desktop\repos\ClearAndConcise\ClearAndSoncise\obj\Debug\net6.0\ClearAndConcise.csproj.AssemblyReference.cache
+C:\Users\Michela\Desktop\repos\ClearAndConcise\ClearAndSoncise\obj\Debug\net6.0\ClearAndConcise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michela\Desktop\repos\ClearAndConcise\ClearAndSoncise\obj\Debug\net6.0\ClearAndConcise.AssemblyInfoInputs.cache
+C:\Users\Michela\Desktop\repos\ClearAndConcise\ClearAndSoncise\obj\Debug\net6.0\ClearAndConcise.AssemblyInfo.cs
+C:\Users\Michela\Desktop\repos\ClearAndConcise\ClearAndSoncise\obj\Debug\net6.0\ClearAndConcise.csproj.CoreCompileInputs.cache
+C:\Users\Michela\Desktop\repos\ClearAndConcise\ClearAndSoncise\obj\Debug\net6.0\ClearAndConcise.dll
+C:\Users\Michela\Desktop\repos\ClearAndConcise\ClearAndSoncise\obj\Debug\net6.0\refint\ClearAndConcise.dll
+C:\Users\Michela\Desktop\repos\ClearAndConcise\ClearAndSoncise\obj\Debug\net6.0\ClearAndConcise.pdb
+C:\Users\Michela\Desktop\repos\ClearAndConcise\ClearAndSoncise\obj\Debug\net6.0\ClearAndConcise.genruntimeconfig.cache
+C:\Users\Michela\Desktop\repos\ClearAndConcise\ClearAndSoncise\obj\Debug\net6.0\ref\ClearAndConcise.dll
