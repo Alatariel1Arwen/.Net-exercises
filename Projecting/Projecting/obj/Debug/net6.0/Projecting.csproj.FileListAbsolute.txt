@@ -1,0 +1,15 @@
+C:\Users\Michela\source\repos\Projecting\Projecting\bin\Debug\net6.0\Projecting.exe
+C:\Users\Michela\source\repos\Projecting\Projecting\bin\Debug\net6.0\Projecting.deps.json
+C:\Users\Michela\source\repos\Projecting\Projecting\bin\Debug\net6.0\Projecting.runtimeconfig.json
+C:\Users\Michela\source\repos\Projecting\Projecting\bin\Debug\net6.0\Projecting.dll
+C:\Users\Michela\source\repos\Projecting\Projecting\bin\Debug\net6.0\Projecting.pdb
+C:\Users\Michela\source\repos\Projecting\Projecting\obj\Debug\net6.0\Projecting.csproj.AssemblyReference.cache
+C:\Users\Michela\source\repos\Projecting\Projecting\obj\Debug\net6.0\Projecting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michela\source\repos\Projecting\Projecting\obj\Debug\net6.0\Projecting.AssemblyInfoInputs.cache
+C:\Users\Michela\source\repos\Projecting\Projecting\obj\Debug\net6.0\Projecting.AssemblyInfo.cs
+C:\Users\Michela\source\repos\Projecting\Projecting\obj\Debug\net6.0\Projecting.csproj.CoreCompileInputs.cache
+C:\Users\Michela\source\repos\Projecting\Projecting\obj\Debug\net6.0\Projecting.dll
+C:\Users\Michela\source\repos\Projecting\Projecting\obj\Debug\net6.0\refint\Projecting.dll
+C:\Users\Michela\source\repos\Projecting\Projecting\obj\Debug\net6.0\Projecting.pdb
+C:\Users\Michela\source\repos\Projecting\Projecting\obj\Debug\net6.0\Projecting.genruntimeconfig.cache
+C:\Users\Michela\source\repos\Projecting\Projecting\obj\Debug\net6.0\ref\Projecting.dll
