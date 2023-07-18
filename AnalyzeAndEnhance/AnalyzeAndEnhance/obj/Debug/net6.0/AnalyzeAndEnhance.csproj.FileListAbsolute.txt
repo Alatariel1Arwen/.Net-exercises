@@ -1,0 +1,15 @@
+C:\Users\Michela\source\repos\AnalyzeAndEnhance\AnalyzeAndEnhance\bin\Debug\net6.0\AnalyzeAndEnhance.exe
+C:\Users\Michela\source\repos\AnalyzeAndEnhance\AnalyzeAndEnhance\bin\Debug\net6.0\AnalyzeAndEnhance.deps.json
+C:\Users\Michela\source\repos\AnalyzeAndEnhance\AnalyzeAndEnhance\bin\Debug\net6.0\AnalyzeAndEnhance.runtimeconfig.json
+C:\Users\Michela\source\repos\AnalyzeAndEnhance\AnalyzeAndEnhance\bin\Debug\net6.0\AnalyzeAndEnhance.dll
+C:\Users\Michela\source\repos\AnalyzeAndEnhance\AnalyzeAndEnhance\bin\Debug\net6.0\AnalyzeAndEnhance.pdb
+C:\Users\Michela\source\repos\AnalyzeAndEnhance\AnalyzeAndEnhance\obj\Debug\net6.0\AnalyzeAndEnhance.csproj.AssemblyReference.cache
+C:\Users\Michela\source\repos\AnalyzeAndEnhance\AnalyzeAndEnhance\obj\Debug\net6.0\AnalyzeAndEnhance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michela\source\repos\AnalyzeAndEnhance\AnalyzeAndEnhance\obj\Debug\net6.0\AnalyzeAndEnhance.AssemblyInfoInputs.cache
+C:\Users\Michela\source\repos\AnalyzeAndEnhance\AnalyzeAndEnhance\obj\Debug\net6.0\AnalyzeAndEnhance.AssemblyInfo.cs
+C:\Users\Michela\source\repos\AnalyzeAndEnhance\AnalyzeAndEnhance\obj\Debug\net6.0\AnalyzeAndEnhance.csproj.CoreCompileInputs.cache
+C:\Users\Michela\source\repos\AnalyzeAndEnhance\AnalyzeAndEnhance\obj\Debug\net6.0\AnalyzeAndEnhance.dll
+C:\Users\Michela\source\repos\AnalyzeAndEnhance\AnalyzeAndEnhance\obj\Debug\net6.0\refint\AnalyzeAndEnhance.dll
+C:\Users\Michela\source\repos\AnalyzeAndEnhance\AnalyzeAndEnhance\obj\Debug\net6.0\AnalyzeAndEnhance.pdb
+C:\Users\Michela\source\repos\AnalyzeAndEnhance\AnalyzeAndEnhance\obj\Debug\net6.0\AnalyzeAndEnhance.genruntimeconfig.cache
+C:\Users\Michela\source\repos\AnalyzeAndEnhance\AnalyzeAndEnhance\obj\Debug\net6.0\ref\AnalyzeAndEnhance.dll
