@@ -1,0 +1,93 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = EveryQuestionDeservesAnswer
+build_property.RootNamespace = EveryQuestionDeservesAnswer
+build_property.ProjectDir = /Users/alatariel/Projects/EveryQuestionDeservesAnswer/EveryQuestionDeservesAnswer/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/alatariel/Projects/EveryQuestionDeservesAnswer/EveryQuestionDeservesAnswer
+build_property._RazorSourceGeneratorDebug = 
+
+[/Users/alatariel/Projects/EveryQuestionDeservesAnswer/EveryQuestionDeservesAnswer/Models/_AnswersPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = TW9kZWxzL19BbnN3ZXJzUGFydGlhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alatariel/Projects/EveryQuestionDeservesAnswer/EveryQuestionDeservesAnswer/Properties/Answer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJvcGVydGllcy9BbnN3ZXIvQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alatariel/Projects/EveryQuestionDeservesAnswer/EveryQuestionDeservesAnswer/Properties/Answer/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJvcGVydGllcy9BbnN3ZXIvRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alatariel/Projects/EveryQuestionDeservesAnswer/EveryQuestionDeservesAnswer/Properties/Answer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJvcGVydGllcy9BbnN3ZXIvRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alatariel/Projects/EveryQuestionDeservesAnswer/EveryQuestionDeservesAnswer/Properties/Answer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJvcGVydGllcy9BbnN3ZXIvRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alatariel/Projects/EveryQuestionDeservesAnswer/EveryQuestionDeservesAnswer/Properties/Answer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJvcGVydGllcy9BbnN3ZXIvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alatariel/Projects/EveryQuestionDeservesAnswer/EveryQuestionDeservesAnswer/Properties/Question/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJvcGVydGllcy9RdWVzdGlvbi9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alatariel/Projects/EveryQuestionDeservesAnswer/EveryQuestionDeservesAnswer/Properties/Question/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJvcGVydGllcy9RdWVzdGlvbi9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alatariel/Projects/EveryQuestionDeservesAnswer/EveryQuestionDeservesAnswer/Properties/Question/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJvcGVydGllcy9RdWVzdGlvbi9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alatariel/Projects/EveryQuestionDeservesAnswer/EveryQuestionDeservesAnswer/Properties/Question/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJvcGVydGllcy9RdWVzdGlvbi9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alatariel/Projects/EveryQuestionDeservesAnswer/EveryQuestionDeservesAnswer/Properties/Question/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJvcGVydGllcy9RdWVzdGlvbi9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alatariel/Projects/EveryQuestionDeservesAnswer/EveryQuestionDeservesAnswer/Properties/Question/_AnswerList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UHJvcGVydGllcy9RdWVzdGlvbi9fQW5zd2VyTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alatariel/Projects/EveryQuestionDeservesAnswer/EveryQuestionDeservesAnswer/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alatariel/Projects/EveryQuestionDeservesAnswer/EveryQuestionDeservesAnswer/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alatariel/Projects/EveryQuestionDeservesAnswer/EveryQuestionDeservesAnswer/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alatariel/Projects/EveryQuestionDeservesAnswer/EveryQuestionDeservesAnswer/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alatariel/Projects/EveryQuestionDeservesAnswer/EveryQuestionDeservesAnswer/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alatariel/Projects/EveryQuestionDeservesAnswer/EveryQuestionDeservesAnswer/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/alatariel/Projects/EveryQuestionDeservesAnswer/EveryQuestionDeservesAnswer/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-qah91cezpx
