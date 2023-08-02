@@ -1,11 +1,8 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
+﻿using System;
+using EveryQuestionDeservesAnswer.Models.Repositories;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DevOverflow.Controllers
+namespace EveryQuestionDeservesAnswer.Controllers
 {
     public class QuestionController : Controller
     {
@@ -26,7 +23,8 @@ namespace DevOverflow.Controllers
         // GET: QuestionController/Details/5
         public ActionResult Details(int id)
         {
-            return View();
+            var question = _quesionRepository.GetById(id);
+            return View(question);
         }
 
         // GET: QuestionController/Create
@@ -93,3 +91,4 @@ namespace DevOverflow.Controllers
         }
     }
 }
+

@@ -1,7 +1,7 @@
 ﻿using System;
-namespace DevOverflow.Models
+namespace EveryQuestionDeservesAnswer.Models
 {
-	public class Question
+    public class Question
     {
         public int Id { get; set; }
         public string Author { get; set; }

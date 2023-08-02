@@ -1,8 +1,8 @@
 ﻿using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using DevOverflow.Models;
+using EveryQuestionDeservesAnswer.Models;
 
-namespace DevOverflow.Controllers;
+namespace EveryQuestionDeservesAnswer.Controllers;
 
 public class HomeController : Controller
 {

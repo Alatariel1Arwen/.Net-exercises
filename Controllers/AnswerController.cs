@@ -1,11 +1,8 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Microsoft.AspNetCore.Http;
+﻿using System;
+using EveryQuestionDeservesAnswer.Models.Repositories;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DevOverflow.Controllers
+namespace EveryQuestionDeservesAnswer.Controllers
 {
     public class AnswerController : Controller
     {
@@ -93,3 +90,4 @@ namespace DevOverflow.Controllers
         }
     }
 }
+

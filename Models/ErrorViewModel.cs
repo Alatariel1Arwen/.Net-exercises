@@ -1,4 +1,4 @@
-﻿namespace DevOverflow.Models;
+﻿namespace EveryQuestionDeservesAnswer.Models;
 
 public class ErrorViewModel
 {

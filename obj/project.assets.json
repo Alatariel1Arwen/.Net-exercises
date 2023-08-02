@@ -2,56 +2,6 @@
   "version": 3,
   "targets": {
     "net6.0": {
-      "AdvancedStringBuilder/0.1.0": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/AdvancedStringBuilder.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard2.0/AdvancedStringBuilder.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "AjaxMin/5.14.5506.26202": {
-        "type": "package",
-        "compile": {
-          "lib/net40/AjaxMin.dll": {}
-        },
-        "runtime": {
-          "lib/net40/AjaxMin.dll": {}
-        }
-      },
-      "EcmaScript.NET/2.0.0": {
-        "type": "package",
-        "dependencies": {
-          "System.Reflection.Emit": "4.3.0"
-        },
-        "compile": {
-          "lib/netstandard2.0/EcmaScript.NET.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/EcmaScript.NET.dll": {}
-        }
-      },
-      "Esprima/1.0.1270": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.SourceLink.GitHub": "1.0.0"
-        },
-        "compile": {
-          "lib/netstandard2.0/Esprima.dll": {
-            "related": ".pdb"
-          }
-        },
-        "runtime": {
-          "lib/netstandard2.0/Esprima.dll": {
-            "related": ".pdb"
-          }
-        }
-      },
       "Humanizer/2.14.1": {
         "type": "package",
         "dependencies": {
@@ -646,22 +596,6 @@
           }
         }
       },
-      "Jint/3.0.0-beta-1778": {
-        "type": "package",
-        "dependencies": {
-          "Esprima": "1.0.1270"
-        },
-        "compile": {
-          "lib/netstandard2.1/Jint.dll": {
-            "related": ".pdb"
-          }
-        },
-        "runtime": {
-          "lib/netstandard2.1/Jint.dll": {
-            "related": ".pdb"
-          }
-        }
-      },
       "MessagePack/2.1.152": {
         "type": "package",
         "dependencies": {
@@ -699,71 +633,6 @@
       },
       "MessagePackAnalyzer/2.1.152": {
         "type": "package"
-      },
-      "Microsoft.AspNet.Mvc/5.2.9": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNet.Razor": "[3.2.9, 3.3.0)",
-          "Microsoft.AspNet.WebPages": "[3.2.9, 3.3.0)"
-        },
-        "compile": {
-          "lib/net45/System.Web.Mvc.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net45/System.Web.Mvc.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "Microsoft.AspNet.Razor/3.2.9": {
-        "type": "package",
-        "compile": {
-          "lib/net45/System.Web.Razor.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/net45/System.Web.Razor.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "Microsoft.AspNet.WebPages/3.2.9": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.AspNet.Razor": "[3.2.9, 3.3.0)",
-          "Microsoft.Web.Infrastructure": "1.0.0"
-        },
-        "compile": {
-          "lib/net45/System.Web.Helpers.dll": {
-            "related": ".xml"
-          },
-          "lib/net45/System.Web.WebPages.Deployment.dll": {
-            "related": ".xml"
-          },
-          "lib/net45/System.Web.WebPages.Razor.dll": {
-            "related": ".xml"
-          },
-          "lib/net45/System.Web.WebPages.dll": {
-            "related": ".Deployment.xml;.Razor.xml;.xml"
-          }
-        },
-        "runtime": {
-          "lib/net45/System.Web.Helpers.dll": {
-            "related": ".xml"
-          },
-          "lib/net45/System.Web.WebPages.Deployment.dll": {
-            "related": ".xml"
-          },
-          "lib/net45/System.Web.WebPages.Razor.dll": {
-            "related": ".xml"
-          },
-          "lib/net45/System.Web.WebPages.dll": {
-            "related": ".Deployment.xml;.Razor.xml;.xml"
-          }
-        }
       },
       "Microsoft.AspNetCore.Razor.Language/6.0.0": {
         "type": "package",
@@ -826,15 +695,6 @@
           "lib/net6.0/Microsoft.Build.Framework.dll": {
             "related": ".pdb;.xml"
           }
-        }
-      },
-      "Microsoft.Build.Tasks.Git/1.0.0": {
-        "type": "package",
-        "build": {
-          "build/_._": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/_._": {}
         }
       },
       "Microsoft.CodeAnalysis.Analyzers/3.3.2": {
@@ -1400,28 +1260,6 @@
           "lib/netstandard1.0/_._": {}
         }
       },
-      "Microsoft.SourceLink.Common/1.0.0": {
-        "type": "package",
-        "build": {
-          "build/_._": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/_._": {}
-        }
-      },
-      "Microsoft.SourceLink.GitHub/1.0.0": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.Build.Tasks.Git": "1.0.0",
-          "Microsoft.SourceLink.Common": "1.0.0"
-        },
-        "build": {
-          "build/_._": {}
-        },
-        "buildMultiTargeting": {
-          "buildMultiTargeting/_._": {}
-        }
-      },
       "Microsoft.VisualStudio.Debugger.Contracts/17.2.0": {
         "type": "package",
         "dependencies": {
@@ -1564,15 +1402,6 @@
           "lib/net6.0/Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll": {
             "related": ".xml"
           }
-        }
-      },
-      "Microsoft.Web.Infrastructure/1.0.0": {
-        "type": "package",
-        "compile": {
-          "lib/net40/Microsoft.Web.Infrastructure.dll": {}
-        },
-        "runtime": {
-          "lib/net40/Microsoft.Web.Infrastructure.dll": {}
         }
       },
       "Microsoft.Win32.Primitives/4.3.0": {
@@ -1814,19 +1643,6 @@
         },
         "runtime": {
           "lib/netstandard2.0/NuGet.Versioning.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "NUglify/1.13.10": {
-        "type": "package",
-        "compile": {
-          "lib/netstandard2.0/NUglify.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard2.0/NUglify.dll": {
             "related": ".xml"
           }
         }
@@ -3489,174 +3305,10 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
-      },
-      "ToolGood.WwwRoot/1.0.0.8": {
-        "type": "package",
-        "dependencies": {
-          "Jint": "3.0.0-beta-1778",
-          "WebMarkupMin.MsAjax": "2.9.0",
-          "WebMarkupMin.NUglify": "2.10.0",
-          "WebMarkupMin.Yui": "2.9.1"
-        },
-        "compile": {
-          "lib/net5.0/ToolGood.WwwRoot.dll": {}
-        },
-        "runtime": {
-          "lib/net5.0/ToolGood.WwwRoot.dll": {}
-        }
-      },
-      "WebMarkupMin.Core/2.9.0": {
-        "type": "package",
-        "dependencies": {
-          "AdvancedStringBuilder": "0.1.0"
-        },
-        "compile": {
-          "lib/netstandard2.1/WebMarkupMin.Core.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard2.1/WebMarkupMin.Core.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "WebMarkupMin.MsAjax/2.9.0": {
-        "type": "package",
-        "dependencies": {
-          "AdvancedStringBuilder": "0.1.0",
-          "AjaxMin": "5.14.5506.26202",
-          "WebMarkupMin.Core": "2.9.0"
-        },
-        "compile": {
-          "lib/netstandard2.0/WebMarkupMin.MsAjax.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard2.0/WebMarkupMin.MsAjax.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "WebMarkupMin.NUglify/2.10.0": {
-        "type": "package",
-        "dependencies": {
-          "AdvancedStringBuilder": "0.1.0",
-          "NUglify": "1.13.10",
-          "WebMarkupMin.Core": "2.9.0"
-        },
-        "compile": {
-          "lib/netstandard2.0/WebMarkupMin.NUglify.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard2.0/WebMarkupMin.NUglify.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "WebMarkupMin.Yui/2.9.1": {
-        "type": "package",
-        "dependencies": {
-          "WebMarkupMin.Core": "2.9.0",
-          "YUICompressor.NET": "3.1.0"
-        },
-        "compile": {
-          "lib/netstandard2.0/WebMarkupMin.Yui.dll": {
-            "related": ".xml"
-          }
-        },
-        "runtime": {
-          "lib/netstandard2.0/WebMarkupMin.Yui.dll": {
-            "related": ".xml"
-          }
-        }
-      },
-      "YUICompressor.NET/3.1.0": {
-        "type": "package",
-        "dependencies": {
-          "EcmaScript.NET": "2.0.0"
-        },
-        "compile": {
-          "lib/netstandard2.0/Yahoo.Yui.Compressor.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Yahoo.Yui.Compressor.dll": {}
-        }
       }
     }
   },
   "libraries": {
-    "AdvancedStringBuilder/0.1.0": {
-      "sha512": "IbN3r5whlJvi8MhCDPVpIb+NVScyUcKSdcJZrnoXFDyzPDISl3AbWouNBYIHRdZdfGuzqCQEhM1vkxbIKqQVaQ==",
-      "type": "package",
-      "path": "advancedstringbuilder/0.1.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "advancedstringbuilder.0.1.0.nupkg.sha512",
-        "advancedstringbuilder.nuspec",
-        "lib/net40-client/AdvancedStringBuilder.dll",
-        "lib/net40-client/AdvancedStringBuilder.xml",
-        "lib/net45/AdvancedStringBuilder.dll",
-        "lib/net45/AdvancedStringBuilder.xml",
-        "lib/netstandard1.0/AdvancedStringBuilder.dll",
-        "lib/netstandard1.0/AdvancedStringBuilder.xml",
-        "lib/netstandard2.0/AdvancedStringBuilder.dll",
-        "lib/netstandard2.0/AdvancedStringBuilder.xml"
-      ]
-    },
-    "AjaxMin/5.14.5506.26202": {
-      "sha512": "ayrhrlFSQEAw+1w7cdUGozbZ8BxakITQcTezeLKByp69zk0tdto8/Jt3U2ieCq3U1dlvwXGvlthMaTJXeHEaFw==",
-      "type": "package",
-      "path": "ajaxmin/5.14.5506.26202",
-      "hasTools": true,
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "ajaxmin.5.14.5506.26202.nupkg.sha512",
-        "ajaxmin.nuspec",
-        "lib/net20/AjaxMin.dll",
-        "lib/net35/AjaxMin.dll",
-        "lib/net40/AjaxMin.dll",
-        "tools/net35/AjaxMin.dll",
-        "tools/net35/AjaxMin.targets",
-        "tools/net35/AjaxMinTask.dll",
-        "tools/net40/AjaxMin.dll",
-        "tools/net40/AjaxMin.targets",
-        "tools/net40/AjaxMinTask.dll"
-      ]
-    },
-    "EcmaScript.NET/2.0.0": {
-      "sha512": "kyHyF/rZFLGvMVBgnYrb6q3Kz9GjQjbUu/sF51SqCrUQtl0bYfrFwzOBc63cyUut+7rHJ5LpOts+73FH7JZfpg==",
-      "type": "package",
-      "path": "ecmascript.net/2.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "ecmascript.net.2.0.0.nupkg.sha512",
-        "ecmascript.net.nuspec",
-        "lib/net45/EcmaScript.NET.dll",
-        "lib/netstandard2.0/EcmaScript.NET.dll"
-      ]
-    },
-    "Esprima/1.0.1270": {
-      "sha512": "LY9sTD5zSHQqL4laPfwc2MYmmSaaNyngYkg7lPZz5bQAeUw2RbvyBSZbpP2hwEiIVKZ5m5xyh7XmvJAkacrvxw==",
-      "type": "package",
-      "path": "esprima/1.0.1270",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "esprima.1.0.1270.nupkg.sha512",
-        "esprima.nuspec",
-        "lib/net461/Esprima.dll",
-        "lib/net461/Esprima.pdb",
-        "lib/netstandard2.0/Esprima.dll",
-        "lib/netstandard2.0/Esprima.pdb"
-      ]
-    },
     "Humanizer/2.14.1": {
       "sha512": "/FUTD3cEceAAmJSCPN9+J+VhGwmL/C12jvwlyM1DFXShEMsBzvLzLqSrJ2rb+k/W2znKw7JyflZgZpyE+tI7lA==",
       "type": "package",
@@ -4403,23 +4055,6 @@
         "logo.png"
       ]
     },
-    "Jint/3.0.0-beta-1778": {
-      "sha512": "9f3BAJQXgwTm+N8JDaDe1pkX+wsLkmY8jugpgozzxmrHjG42GUyCsll+X814M4KjlvcXaefjlmn33Qg9yS1PjQ==",
-      "type": "package",
-      "path": "jint/3.0.0-beta-1778",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "jint.3.0.0-beta-1778.nupkg.sha512",
-        "jint.nuspec",
-        "lib/net461/Jint.dll",
-        "lib/net461/Jint.pdb",
-        "lib/netstandard2.0/Jint.dll",
-        "lib/netstandard2.0/Jint.pdb",
-        "lib/netstandard2.1/Jint.dll",
-        "lib/netstandard2.1/Jint.pdb"
-      ]
-    },
     "MessagePack/2.1.152": {
       "sha512": "PlJ31qf42uGuJfwc61x/Pt4hJi01xh1rrBofj1MJSLzEot/2UAIRdSgxEHN/8qou5CV8OBeDM9HXKPi1Oj8rpQ==",
       "type": "package",
@@ -4464,61 +4099,6 @@
         "messagepackanalyzer.nuspec",
         "tools/install.ps1",
         "tools/uninstall.ps1"
-      ]
-    },
-    "Microsoft.AspNet.Mvc/5.2.9": {
-      "sha512": "bcekKshCAh7kTWSMZPavQStSZQF/QmjEjO2gVWGITEd0/t5eRlb+ZLDE+az2qY1bZ8L6Hz0OCNeS0uzXtJcK5w==",
-      "type": "package",
-      "path": "microsoft.aspnet.mvc/5.2.9",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Content/Web.config.install.xdt",
-        "Content/Web.config.uninstall.xdt",
-        "NET.icon.png",
-        "NET_Library_EULA_ENU.txt",
-        "lib/net45/System.Web.Mvc.dll",
-        "lib/net45/System.Web.Mvc.xml",
-        "microsoft.aspnet.mvc.5.2.9.nupkg.sha512",
-        "microsoft.aspnet.mvc.nuspec"
-      ]
-    },
-    "Microsoft.AspNet.Razor/3.2.9": {
-      "sha512": "QOJEnEw3xp+t5lMvYR5nGCF4CfZpHqr2p8uZOBEgDZoB6r2txtSj6581YNr+/dOHjI3YRlo1QAKGQoSohbQ/KA==",
-      "type": "package",
-      "path": "microsoft.aspnet.razor/3.2.9",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "NET.icon.png",
-        "NET_Library_EULA_ENU.txt",
-        "lib/net45/System.Web.Razor.dll",
-        "lib/net45/System.Web.Razor.xml",
-        "microsoft.aspnet.razor.3.2.9.nupkg.sha512",
-        "microsoft.aspnet.razor.nuspec"
-      ]
-    },
-    "Microsoft.AspNet.WebPages/3.2.9": {
-      "sha512": "yByb721lwv8YFsx1oKA5CLKXa89XVbVMkPafS4bg/bPelBEgChq/coFBQEkA4kwcabG7AR56w3vapnoZUfr2Cw==",
-      "type": "package",
-      "path": "microsoft.aspnet.webpages/3.2.9",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Content/Web.config.install.xdt",
-        "Content/Web.config.uninstall.xdt",
-        "NET.icon.png",
-        "NET_Library_EULA_ENU.txt",
-        "lib/net45/System.Web.Helpers.dll",
-        "lib/net45/System.Web.Helpers.xml",
-        "lib/net45/System.Web.WebPages.Deployment.dll",
-        "lib/net45/System.Web.WebPages.Deployment.xml",
-        "lib/net45/System.Web.WebPages.Razor.dll",
-        "lib/net45/System.Web.WebPages.Razor.xml",
-        "lib/net45/System.Web.WebPages.dll",
-        "lib/net45/System.Web.WebPages.xml",
-        "microsoft.aspnet.webpages.3.2.9.nupkg.sha512",
-        "microsoft.aspnet.webpages.nuspec"
       ]
     },
     "Microsoft.AspNetCore.Razor.Language/6.0.0": {
@@ -4605,52 +4185,6 @@
         "ref/net6.0/Microsoft.Build.Framework.xml",
         "ref/netstandard2.0/Microsoft.Build.Framework.dll",
         "ref/netstandard2.0/Microsoft.Build.Framework.xml"
-      ]
-    },
-    "Microsoft.Build.Tasks.Git/1.0.0": {
-      "sha512": "z2fpmmt+1Jfl+ZnBki9nSP08S1/tbEOxFdsK1rSR+LBehIJz1Xv9/6qOOoGNqlwnAGGVGis1Oj6S8Kt9COEYlQ==",
-      "type": "package",
-      "path": "microsoft.build.tasks.git/1.0.0",
-      "hasTools": true,
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "build/Microsoft.Build.Tasks.Git.props",
-        "build/Microsoft.Build.Tasks.Git.targets",
-        "buildMultiTargeting/Microsoft.Build.Tasks.Git.props",
-        "buildMultiTargeting/Microsoft.Build.Tasks.Git.targets",
-        "microsoft.build.tasks.git.1.0.0.nupkg.sha512",
-        "microsoft.build.tasks.git.nuspec",
-        "tools/net461/Microsoft.Build.Tasks.Git.dll",
-        "tools/net461/System.Collections.Immutable.dll",
-        "tools/net461/cs/Microsoft.Build.Tasks.Git.resources.dll",
-        "tools/net461/de/Microsoft.Build.Tasks.Git.resources.dll",
-        "tools/net461/es/Microsoft.Build.Tasks.Git.resources.dll",
-        "tools/net461/fr/Microsoft.Build.Tasks.Git.resources.dll",
-        "tools/net461/it/Microsoft.Build.Tasks.Git.resources.dll",
-        "tools/net461/ja/Microsoft.Build.Tasks.Git.resources.dll",
-        "tools/net461/ko/Microsoft.Build.Tasks.Git.resources.dll",
-        "tools/net461/pl/Microsoft.Build.Tasks.Git.resources.dll",
-        "tools/net461/pt-BR/Microsoft.Build.Tasks.Git.resources.dll",
-        "tools/net461/ru/Microsoft.Build.Tasks.Git.resources.dll",
-        "tools/net461/tr/Microsoft.Build.Tasks.Git.resources.dll",
-        "tools/net461/zh-Hans/Microsoft.Build.Tasks.Git.resources.dll",
-        "tools/net461/zh-Hant/Microsoft.Build.Tasks.Git.resources.dll",
-        "tools/netcoreapp2.0/Microsoft.Build.Tasks.Git.dll",
-        "tools/netcoreapp2.0/cs/Microsoft.Build.Tasks.Git.resources.dll",
-        "tools/netcoreapp2.0/de/Microsoft.Build.Tasks.Git.resources.dll",
-        "tools/netcoreapp2.0/es/Microsoft.Build.Tasks.Git.resources.dll",
-        "tools/netcoreapp2.0/fr/Microsoft.Build.Tasks.Git.resources.dll",
-        "tools/netcoreapp2.0/it/Microsoft.Build.Tasks.Git.resources.dll",
-        "tools/netcoreapp2.0/ja/Microsoft.Build.Tasks.Git.resources.dll",
-        "tools/netcoreapp2.0/ko/Microsoft.Build.Tasks.Git.resources.dll",
-        "tools/netcoreapp2.0/pl/Microsoft.Build.Tasks.Git.resources.dll",
-        "tools/netcoreapp2.0/pt-BR/Microsoft.Build.Tasks.Git.resources.dll",
-        "tools/netcoreapp2.0/ru/Microsoft.Build.Tasks.Git.resources.dll",
-        "tools/netcoreapp2.0/tr/Microsoft.Build.Tasks.Git.resources.dll",
-        "tools/netcoreapp2.0/zh-Hans/Microsoft.Build.Tasks.Git.resources.dll",
-        "tools/netcoreapp2.0/zh-Hant/Microsoft.Build.Tasks.Git.resources.dll"
       ]
     },
     "Microsoft.CodeAnalysis.Analyzers/3.3.2": {
@@ -5252,97 +4786,6 @@
         "runtime.json"
       ]
     },
-    "Microsoft.SourceLink.Common/1.0.0": {
-      "sha512": "G8DuQY8/DK5NN+3jm5wcMcd9QYD90UV7MiLmdljSJixi3U/vNaeBKmmXUqI4DJCOeWizIUEh4ALhSt58mR+5eg==",
-      "type": "package",
-      "path": "microsoft.sourcelink.common/1.0.0",
-      "hasTools": true,
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "build/InitializeSourceControlInformation.targets",
-        "build/Microsoft.SourceLink.Common.props",
-        "build/Microsoft.SourceLink.Common.targets",
-        "buildMultiTargeting/Microsoft.SourceLink.Common.props",
-        "buildMultiTargeting/Microsoft.SourceLink.Common.targets",
-        "microsoft.sourcelink.common.1.0.0.nupkg.sha512",
-        "microsoft.sourcelink.common.nuspec",
-        "tools/net461/Microsoft.SourceLink.Common.dll",
-        "tools/net461/cs/Microsoft.SourceLink.Common.resources.dll",
-        "tools/net461/de/Microsoft.SourceLink.Common.resources.dll",
-        "tools/net461/es/Microsoft.SourceLink.Common.resources.dll",
-        "tools/net461/fr/Microsoft.SourceLink.Common.resources.dll",
-        "tools/net461/it/Microsoft.SourceLink.Common.resources.dll",
-        "tools/net461/ja/Microsoft.SourceLink.Common.resources.dll",
-        "tools/net461/ko/Microsoft.SourceLink.Common.resources.dll",
-        "tools/net461/pl/Microsoft.SourceLink.Common.resources.dll",
-        "tools/net461/pt-BR/Microsoft.SourceLink.Common.resources.dll",
-        "tools/net461/ru/Microsoft.SourceLink.Common.resources.dll",
-        "tools/net461/tr/Microsoft.SourceLink.Common.resources.dll",
-        "tools/net461/zh-Hans/Microsoft.SourceLink.Common.resources.dll",
-        "tools/net461/zh-Hant/Microsoft.SourceLink.Common.resources.dll",
-        "tools/netcoreapp2.0/Microsoft.SourceLink.Common.dll",
-        "tools/netcoreapp2.0/cs/Microsoft.SourceLink.Common.resources.dll",
-        "tools/netcoreapp2.0/de/Microsoft.SourceLink.Common.resources.dll",
-        "tools/netcoreapp2.0/es/Microsoft.SourceLink.Common.resources.dll",
-        "tools/netcoreapp2.0/fr/Microsoft.SourceLink.Common.resources.dll",
-        "tools/netcoreapp2.0/it/Microsoft.SourceLink.Common.resources.dll",
-        "tools/netcoreapp2.0/ja/Microsoft.SourceLink.Common.resources.dll",
-        "tools/netcoreapp2.0/ko/Microsoft.SourceLink.Common.resources.dll",
-        "tools/netcoreapp2.0/pl/Microsoft.SourceLink.Common.resources.dll",
-        "tools/netcoreapp2.0/pt-BR/Microsoft.SourceLink.Common.resources.dll",
-        "tools/netcoreapp2.0/ru/Microsoft.SourceLink.Common.resources.dll",
-        "tools/netcoreapp2.0/tr/Microsoft.SourceLink.Common.resources.dll",
-        "tools/netcoreapp2.0/zh-Hans/Microsoft.SourceLink.Common.resources.dll",
-        "tools/netcoreapp2.0/zh-Hant/Microsoft.SourceLink.Common.resources.dll"
-      ]
-    },
-    "Microsoft.SourceLink.GitHub/1.0.0": {
-      "sha512": "aZyGyGg2nFSxix+xMkPmlmZSsnGQ3w+mIG23LTxJZHN+GPwTQ5FpPgDo7RMOq+Kcf5D4hFWfXkGhoGstawX13Q==",
-      "type": "package",
-      "path": "microsoft.sourcelink.github/1.0.0",
-      "hasTools": true,
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "Icon.png",
-        "build/Microsoft.SourceLink.GitHub.props",
-        "build/Microsoft.SourceLink.GitHub.targets",
-        "buildMultiTargeting/Microsoft.SourceLink.GitHub.props",
-        "buildMultiTargeting/Microsoft.SourceLink.GitHub.targets",
-        "microsoft.sourcelink.github.1.0.0.nupkg.sha512",
-        "microsoft.sourcelink.github.nuspec",
-        "tools/net461/Microsoft.SourceLink.GitHub.dll",
-        "tools/net461/cs/Microsoft.SourceLink.GitHub.resources.dll",
-        "tools/net461/de/Microsoft.SourceLink.GitHub.resources.dll",
-        "tools/net461/es/Microsoft.SourceLink.GitHub.resources.dll",
-        "tools/net461/fr/Microsoft.SourceLink.GitHub.resources.dll",
-        "tools/net461/it/Microsoft.SourceLink.GitHub.resources.dll",
-        "tools/net461/ja/Microsoft.SourceLink.GitHub.resources.dll",
-        "tools/net461/ko/Microsoft.SourceLink.GitHub.resources.dll",
-        "tools/net461/pl/Microsoft.SourceLink.GitHub.resources.dll",
-        "tools/net461/pt-BR/Microsoft.SourceLink.GitHub.resources.dll",
-        "tools/net461/ru/Microsoft.SourceLink.GitHub.resources.dll",
-        "tools/net461/tr/Microsoft.SourceLink.GitHub.resources.dll",
-        "tools/net461/zh-Hans/Microsoft.SourceLink.GitHub.resources.dll",
-        "tools/net461/zh-Hant/Microsoft.SourceLink.GitHub.resources.dll",
-        "tools/netcoreapp2.0/Microsoft.SourceLink.GitHub.dll",
-        "tools/netcoreapp2.0/cs/Microsoft.SourceLink.GitHub.resources.dll",
-        "tools/netcoreapp2.0/de/Microsoft.SourceLink.GitHub.resources.dll",
-        "tools/netcoreapp2.0/es/Microsoft.SourceLink.GitHub.resources.dll",
-        "tools/netcoreapp2.0/fr/Microsoft.SourceLink.GitHub.resources.dll",
-        "tools/netcoreapp2.0/it/Microsoft.SourceLink.GitHub.resources.dll",
-        "tools/netcoreapp2.0/ja/Microsoft.SourceLink.GitHub.resources.dll",
-        "tools/netcoreapp2.0/ko/Microsoft.SourceLink.GitHub.resources.dll",
-        "tools/netcoreapp2.0/pl/Microsoft.SourceLink.GitHub.resources.dll",
-        "tools/netcoreapp2.0/pt-BR/Microsoft.SourceLink.GitHub.resources.dll",
-        "tools/netcoreapp2.0/ru/Microsoft.SourceLink.GitHub.resources.dll",
-        "tools/netcoreapp2.0/tr/Microsoft.SourceLink.GitHub.resources.dll",
-        "tools/netcoreapp2.0/zh-Hans/Microsoft.SourceLink.GitHub.resources.dll",
-        "tools/netcoreapp2.0/zh-Hant/Microsoft.SourceLink.GitHub.resources.dll"
-      ]
-    },
     "Microsoft.VisualStudio.Debugger.Contracts/17.2.0": {
       "sha512": "br/qV/aHqLqVlqtcMKglCC8MHMMLey0yMkKSplnMl58F5gKjwnh7wjs8+g0j/vf4T6h4KK7JWrC0+oN70pbugg==",
       "type": "package",
@@ -5919,18 +5362,6 @@
         "microsoft.visualstudio.web.codegenerators.mvc.nuspec"
       ]
     },
-    "Microsoft.Web.Infrastructure/1.0.0": {
-      "sha512": "FNmvLn5m2LTU/Rs2KWVo0SIIh9Ek+U0ojex7xeDaSHw/zgEP77A8vY5cVWgUtBGS8MJfDGNn8rpXJWEIQaPwTg==",
-      "type": "package",
-      "path": "microsoft.web.infrastructure/1.0.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net40/Microsoft.Web.Infrastructure.dll",
-        "microsoft.web.infrastructure.1.0.0.nupkg.sha512",
-        "microsoft.web.infrastructure.nuspec"
-      ]
-    },
     "Microsoft.Win32.Primitives/4.3.0": {
       "sha512": "9ZQKCWxH7Ijp9BfahvL2Zyf1cJIk8XYLF6Yjzr2yi0b2cOut/HQ31qf1ThHAgCc3WiZMdnWcfJCgN82/0UunxA==",
       "type": "package",
@@ -6197,26 +5628,6 @@
         "lib/netstandard2.0/NuGet.Versioning.xml",
         "nuget.versioning.6.3.1.nupkg.sha512",
         "nuget.versioning.nuspec"
-      ]
-    },
-    "NUglify/1.13.10": {
-      "sha512": "sG5HOjtZVA1tc0dZ7G2xZwVvRsUer6uTRijt3Fm4szM6lCdEGo9+ehGeflZUyKwqEB+JcKxL80y9pkA/fm3ftA==",
-      "type": "package",
-      "path": "nuglify/1.13.10",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/net35/NUglify.dll",
-        "lib/net35/NUglify.xml",
-        "lib/net40/NUglify.dll",
-        "lib/net40/NUglify.xml",
-        "lib/netstandard1.3/NUglify.dll",
-        "lib/netstandard1.3/NUglify.xml",
-        "lib/netstandard2.0/NUglify.dll",
-        "lib/netstandard2.0/NUglify.xml",
-        "nuglify.1.13.10.nupkg.sha512",
-        "nuglify.nuspec",
-        "nuglify.png"
       ]
     },
     "runtime.debian.8-x64.runtime.native.System.Security.Cryptography.OpenSsl/4.3.0": {
@@ -10185,129 +9596,11 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
-    },
-    "ToolGood.WwwRoot/1.0.0.8": {
-      "sha512": "95EqMMmm4AFxdZWhR9CGTQD5+BnQJ3TCvga2FH6Bw6oTBJop1ISxLWlQK+gWTzfJRtBtdQ9uJUhU8J3DOrNruA==",
-      "type": "package",
-      "path": "toolgood.wwwroot/1.0.0.8",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE",
-        "lib/net5.0/ToolGood.WwwRoot.dll",
-        "toolgood.wwwroot.1.0.0.8.nupkg.sha512",
-        "toolgood.wwwroot.nuspec"
-      ]
-    },
-    "WebMarkupMin.Core/2.9.0": {
-      "sha512": "FlEMQbamh/L6nYa4A7coH0X3G6IynOM7q+/3Wub7Y4DVGyOEXHQbUHkvJ61RXtFnT9tagfzsn1iiSm3VoOumzw==",
-      "type": "package",
-      "path": "webmarkupmin.core/2.9.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE.txt",
-        "icon.png",
-        "lib/net40-client/WebMarkupMin.Core.dll",
-        "lib/net40-client/WebMarkupMin.Core.xml",
-        "lib/net45/WebMarkupMin.Core.dll",
-        "lib/net45/WebMarkupMin.Core.xml",
-        "lib/netstandard1.3/WebMarkupMin.Core.dll",
-        "lib/netstandard1.3/WebMarkupMin.Core.xml",
-        "lib/netstandard2.0/WebMarkupMin.Core.dll",
-        "lib/netstandard2.0/WebMarkupMin.Core.xml",
-        "lib/netstandard2.1/WebMarkupMin.Core.dll",
-        "lib/netstandard2.1/WebMarkupMin.Core.xml",
-        "readme.txt",
-        "webmarkupmin.core.2.9.0.nupkg.sha512",
-        "webmarkupmin.core.nuspec"
-      ]
-    },
-    "WebMarkupMin.MsAjax/2.9.0": {
-      "sha512": "U7pnuAlASbRxlL8HN7g3hwCfnLatOtCit8Z5u1QRuLxMYKHZQL6AO+6l+nI4brXkUBFobzZ9tCZjq84Qd7HGqg==",
-      "type": "package",
-      "path": "webmarkupmin.msajax/2.9.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE.txt",
-        "icon.png",
-        "lib/net40-client/WebMarkupMin.MsAjax.dll",
-        "lib/net40-client/WebMarkupMin.MsAjax.xml",
-        "lib/net45/WebMarkupMin.MsAjax.dll",
-        "lib/net45/WebMarkupMin.MsAjax.xml",
-        "lib/netstandard2.0/WebMarkupMin.MsAjax.dll",
-        "lib/netstandard2.0/WebMarkupMin.MsAjax.xml",
-        "microsoft-ajax-minifier-license.txt",
-        "readme.txt",
-        "webmarkupmin.msajax.2.9.0.nupkg.sha512",
-        "webmarkupmin.msajax.nuspec"
-      ]
-    },
-    "WebMarkupMin.NUglify/2.10.0": {
-      "sha512": "+wx6Gv7EVM68UhHZ85UQw2K65oduUVQaqEYD/mMZIsazZmMNk5dsfMnHz2Jdlekdmlqus81LjbGOKR+YSHhZWA==",
-      "type": "package",
-      "path": "webmarkupmin.nuglify/2.10.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE.txt",
-        "icon.png",
-        "lib/net40-client/WebMarkupMin.NUglify.dll",
-        "lib/net40-client/WebMarkupMin.NUglify.xml",
-        "lib/net45/WebMarkupMin.NUglify.dll",
-        "lib/net45/WebMarkupMin.NUglify.xml",
-        "lib/netstandard1.3/WebMarkupMin.NUglify.dll",
-        "lib/netstandard1.3/WebMarkupMin.NUglify.xml",
-        "lib/netstandard2.0/WebMarkupMin.NUglify.dll",
-        "lib/netstandard2.0/WebMarkupMin.NUglify.xml",
-        "nuglify-license.txt",
-        "readme.txt",
-        "webmarkupmin.nuglify.2.10.0.nupkg.sha512",
-        "webmarkupmin.nuglify.nuspec"
-      ]
-    },
-    "WebMarkupMin.Yui/2.9.1": {
-      "sha512": "rr1JFebwzCHwi6dmUDCo5N/2bu1PEYPvZnc19tH0aNWINq8zl7934g2XbQGKEnIIjqKeJNgutcEUu7cz02/Gyw==",
-      "type": "package",
-      "path": "webmarkupmin.yui/2.9.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE.txt",
-        "icon.png",
-        "lib/net452/WebMarkupMin.Yui.dll",
-        "lib/net452/WebMarkupMin.Yui.xml",
-        "lib/netstandard2.0/WebMarkupMin.Yui.dll",
-        "lib/netstandard2.0/WebMarkupMin.Yui.xml",
-        "readme.txt",
-        "webmarkupmin.yui.2.9.1.nupkg.sha512",
-        "webmarkupmin.yui.nuspec",
-        "yui-compressor-for-net-license.txt"
-      ]
-    },
-    "YUICompressor.NET/3.1.0": {
-      "sha512": "MvN0GCJApVB1Uc2AL42FeaVNUHAd97GYw5yyudTedZuDCahK0ANPUm6UHC2Bq6+QxqWOTvMKvu3Red/6RvvUxQ==",
-      "type": "package",
-      "path": "yuicompressor.net/3.1.0",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE.txt",
-        "icon.jpg",
-        "lib/net452/Yahoo.Yui.Compressor.dll",
-        "lib/netstandard2.0/Yahoo.Yui.Compressor.dll",
-        "yuicompressor.net.3.1.0.nupkg.sha512",
-        "yuicompressor.net.nuspec"
-      ]
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "AjaxMin >= 5.14.5506.26202",
-      "Microsoft.AspNet.Mvc >= 5.2.9",
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.15",
-      "ToolGood.WwwRoot >= 1.0.0.8"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.15"
     ]
   },
   "packageFolders": {
@@ -10316,11 +9609,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alatariel/Desktop/repos/DevOverflow/DevOverflow/DevOverflow.csproj",
-      "projectName": "DevOverflow",
-      "projectPath": "/Users/alatariel/Desktop/repos/DevOverflow/DevOverflow/DevOverflow.csproj",
+      "projectUniqueName": "/Users/alatariel/Projects/EveryQuestionDeservesAnswer/EveryQuestionDeservesAnswer/EveryQuestionDeservesAnswer.csproj",
+      "projectName": "EveryQuestionDeservesAnswer",
+      "projectPath": "/Users/alatariel/Projects/EveryQuestionDeservesAnswer/EveryQuestionDeservesAnswer/EveryQuestionDeservesAnswer.csproj",
       "packagesPath": "/Users/alatariel/.nuget/packages/",
-      "outputPath": "/Users/alatariel/Desktop/repos/DevOverflow/DevOverflow/obj/",
+      "outputPath": "/Users/alatariel/Projects/EveryQuestionDeservesAnswer/EveryQuestionDeservesAnswer/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alatariel/.nuget/NuGet/NuGet.Config"
@@ -10349,21 +9642,9 @@
       "net6.0": {
         "targetAlias": "net6.0",
         "dependencies": {
-          "AjaxMin": {
-            "target": "Package",
-            "version": "[5.14.5506.26202, )"
-          },
-          "Microsoft.AspNet.Mvc": {
-            "target": "Package",
-            "version": "[5.2.9, )"
-          },
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[6.0.15, )"
-          },
-          "ToolGood.WwwRoot": {
-            "target": "Package",
-            "version": "[1.0.0.8, )"
           }
         },
         "imports": [
@@ -10388,57 +9669,5 @@
         "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.306/RuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Il pacchetto 'AjaxMin 5.14.5506.26202' è stato ripristinato mediante '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' e non mediante il framework di destinazione del progetto 'net6.0'. Questo pacchetto potrebbe non essere completamente compatibile con il progetto.",
-      "libraryId": "AjaxMin",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Il pacchetto 'Microsoft.AspNet.Mvc 5.2.9' è stato ripristinato mediante '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' e non mediante il framework di destinazione del progetto 'net6.0'. Questo pacchetto potrebbe non essere completamente compatibile con il progetto.",
-      "libraryId": "Microsoft.AspNet.Mvc",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Il pacchetto 'Microsoft.AspNet.Razor 3.2.9' è stato ripristinato mediante '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' e non mediante il framework di destinazione del progetto 'net6.0'. Questo pacchetto potrebbe non essere completamente compatibile con il progetto.",
-      "libraryId": "Microsoft.AspNet.Razor",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Il pacchetto 'Microsoft.AspNet.WebPages 3.2.9' è stato ripristinato mediante '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' e non mediante il framework di destinazione del progetto 'net6.0'. Questo pacchetto potrebbe non essere completamente compatibile con il progetto.",
-      "libraryId": "Microsoft.AspNet.WebPages",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Il pacchetto 'Microsoft.Web.Infrastructure 1.0.0' è stato ripristinato mediante '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' e non mediante il framework di destinazione del progetto 'net6.0'. Questo pacchetto potrebbe non essere completamente compatibile con il progetto.",
-      "libraryId": "Microsoft.Web.Infrastructure",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  }
 }

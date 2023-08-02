@@ -1,13 +1,9 @@
 {
   "version": 2,
-  "dgSpecHash": "6qAiueTFUmH+q+jZ4ROSZ6ghOJv2/TnLyh10wGiHRkEifSOAy8ljp8cIDrmJfgBc1dqb4gcC8IUo09AG/ezdiA==",
+  "dgSpecHash": "tJtjlf9VBXDEEf+Xn6zQmOWRsFZS4xIi4VGkK7/QPNvvmWHVroNjhCu++cJGWpDUpyO8nYq7jLKRukygtzXwDg==",
   "success": true,
-  "projectFilePath": "/Users/alatariel/Desktop/repos/DevOverflow/DevOverflow/DevOverflow.csproj",
+  "projectFilePath": "/Users/alatariel/Projects/EveryQuestionDeservesAnswer/EveryQuestionDeservesAnswer/EveryQuestionDeservesAnswer.csproj",
   "expectedPackageFiles": [
-    "/Users/alatariel/.nuget/packages/advancedstringbuilder/0.1.0/advancedstringbuilder.0.1.0.nupkg.sha512",
-    "/Users/alatariel/.nuget/packages/ajaxmin/5.14.5506.26202/ajaxmin.5.14.5506.26202.nupkg.sha512",
-    "/Users/alatariel/.nuget/packages/ecmascript.net/2.0.0/ecmascript.net.2.0.0.nupkg.sha512",
-    "/Users/alatariel/.nuget/packages/esprima/1.0.1270/esprima.1.0.1270.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/humanizer/2.14.1/humanizer.2.14.1.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/humanizer.core.af/2.14.1/humanizer.core.af.2.14.1.nupkg.sha512",
@@ -58,18 +54,13 @@
     "/Users/alatariel/.nuget/packages/humanizer.core.zh-cn/2.14.1/humanizer.core.zh-cn.2.14.1.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/humanizer.core.zh-hans/2.14.1/humanizer.core.zh-hans.2.14.1.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/humanizer.core.zh-hant/2.14.1/humanizer.core.zh-hant.2.14.1.nupkg.sha512",
-    "/Users/alatariel/.nuget/packages/jint/3.0.0-beta-1778/jint.3.0.0-beta-1778.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/messagepack/2.1.152/messagepack.2.1.152.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/messagepack.annotations/2.1.152/messagepack.annotations.2.1.152.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/messagepackanalyzer/2.1.152/messagepackanalyzer.2.1.152.nupkg.sha512",
-    "/Users/alatariel/.nuget/packages/microsoft.aspnet.mvc/5.2.9/microsoft.aspnet.mvc.5.2.9.nupkg.sha512",
-    "/Users/alatariel/.nuget/packages/microsoft.aspnet.razor/3.2.9/microsoft.aspnet.razor.3.2.9.nupkg.sha512",
-    "/Users/alatariel/.nuget/packages/microsoft.aspnet.webpages/3.2.9/microsoft.aspnet.webpages.3.2.9.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/microsoft.aspnetcore.razor.language/6.0.0/microsoft.aspnetcore.razor.language.6.0.0.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/microsoft.bcl.asyncinterfaces/5.0.0/microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/microsoft.build/17.3.2/microsoft.build.17.3.2.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/microsoft.build.framework/17.3.2/microsoft.build.framework.17.3.2.nupkg.sha512",
-    "/Users/alatariel/.nuget/packages/microsoft.build.tasks.git/1.0.0/microsoft.build.tasks.git.1.0.0.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/microsoft.codeanalysis.analyzers/3.3.2/microsoft.codeanalysis.analyzers.3.3.2.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/microsoft.codeanalysis.analyzerutilities/3.3.0/microsoft.codeanalysis.analyzerutilities.3.3.0.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/microsoft.codeanalysis.common/4.0.0/microsoft.codeanalysis.common.4.0.0.nupkg.sha512",
@@ -87,8 +78,6 @@
     "/Users/alatariel/.nuget/packages/microsoft.net.stringtools/17.3.2/microsoft.net.stringtools.17.3.2.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/microsoft.netcore.targets/1.1.0/microsoft.netcore.targets.1.1.0.nupkg.sha512",
-    "/Users/alatariel/.nuget/packages/microsoft.sourcelink.common/1.0.0/microsoft.sourcelink.common.1.0.0.nupkg.sha512",
-    "/Users/alatariel/.nuget/packages/microsoft.sourcelink.github/1.0.0/microsoft.sourcelink.github.1.0.0.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/microsoft.visualstudio.debugger.contracts/17.2.0/microsoft.visualstudio.debugger.contracts.17.2.0.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/microsoft.visualstudio.web.codegeneration/6.0.15/microsoft.visualstudio.web.codegeneration.6.0.15.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/microsoft.visualstudio.web.codegeneration.core/6.0.15/microsoft.visualstudio.web.codegeneration.core.6.0.15.nupkg.sha512",
@@ -97,7 +86,6 @@
     "/Users/alatariel/.nuget/packages/microsoft.visualstudio.web.codegeneration.templating/6.0.15/microsoft.visualstudio.web.codegeneration.templating.6.0.15.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/microsoft.visualstudio.web.codegeneration.utils/6.0.15/microsoft.visualstudio.web.codegeneration.utils.6.0.15.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/microsoft.visualstudio.web.codegenerators.mvc/6.0.15/microsoft.visualstudio.web.codegenerators.mvc.6.0.15.nupkg.sha512",
-    "/Users/alatariel/.nuget/packages/microsoft.web.infrastructure/1.0.0/microsoft.web.infrastructure.1.0.0.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/microsoft.win32.primitives/4.3.0/microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/netstandard.library/1.6.1/netstandard.library.1.6.1.nupkg.sha512",
@@ -111,7 +99,6 @@
     "/Users/alatariel/.nuget/packages/nuget.projectmodel/6.3.1/nuget.projectmodel.6.3.1.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/nuget.protocol/6.3.1/nuget.protocol.6.3.1.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/nuget.versioning/6.3.1/nuget.versioning.6.3.1.nupkg.sha512",
-    "/Users/alatariel/.nuget/packages/nuglify/1.13.10/nuglify.1.13.10.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.fedora.23-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
@@ -205,64 +192,7 @@
     "/Users/alatariel/.nuget/packages/system.threading.timer/4.3.0/system.threading.timer.4.3.0.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/system.windows.extensions/6.0.0/system.windows.extensions.6.0.0.nupkg.sha512",
     "/Users/alatariel/.nuget/packages/system.xml.readerwriter/4.3.0/system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "/Users/alatariel/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512",
-    "/Users/alatariel/.nuget/packages/toolgood.wwwroot/1.0.0.8/toolgood.wwwroot.1.0.0.8.nupkg.sha512",
-    "/Users/alatariel/.nuget/packages/webmarkupmin.core/2.9.0/webmarkupmin.core.2.9.0.nupkg.sha512",
-    "/Users/alatariel/.nuget/packages/webmarkupmin.msajax/2.9.0/webmarkupmin.msajax.2.9.0.nupkg.sha512",
-    "/Users/alatariel/.nuget/packages/webmarkupmin.nuglify/2.10.0/webmarkupmin.nuglify.2.10.0.nupkg.sha512",
-    "/Users/alatariel/.nuget/packages/webmarkupmin.yui/2.9.1/webmarkupmin.yui.2.9.1.nupkg.sha512",
-    "/Users/alatariel/.nuget/packages/yuicompressor.net/3.1.0/yuicompressor.net.3.1.0.nupkg.sha512"
+    "/Users/alatariel/.nuget/packages/system.xml.xdocument/4.3.0/system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Il pacchetto 'AjaxMin 5.14.5506.26202' è stato ripristinato mediante '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' e non mediante il framework di destinazione del progetto 'net6.0'. Questo pacchetto potrebbe non essere completamente compatibile con il progetto.",
-      "libraryId": "AjaxMin",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Il pacchetto 'Microsoft.AspNet.Mvc 5.2.9' è stato ripristinato mediante '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' e non mediante il framework di destinazione del progetto 'net6.0'. Questo pacchetto potrebbe non essere completamente compatibile con il progetto.",
-      "libraryId": "Microsoft.AspNet.Mvc",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Il pacchetto 'Microsoft.AspNet.Razor 3.2.9' è stato ripristinato mediante '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' e non mediante il framework di destinazione del progetto 'net6.0'. Questo pacchetto potrebbe non essere completamente compatibile con il progetto.",
-      "libraryId": "Microsoft.AspNet.Razor",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Il pacchetto 'Microsoft.AspNet.WebPages 3.2.9' è stato ripristinato mediante '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' e non mediante il framework di destinazione del progetto 'net6.0'. Questo pacchetto potrebbe non essere completamente compatibile con il progetto.",
-      "libraryId": "Microsoft.AspNet.WebPages",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    },
-    {
-      "code": "NU1701",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Il pacchetto 'Microsoft.Web.Infrastructure 1.0.0' è stato ripristinato mediante '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' e non mediante il framework di destinazione del progetto 'net6.0'. Questo pacchetto potrebbe non essere completamente compatibile con il progetto.",
-      "libraryId": "Microsoft.Web.Infrastructure",
-      "targetGraphs": [
-        "net6.0"
-      ]
-    }
-  ]
+  "logs": []
 }

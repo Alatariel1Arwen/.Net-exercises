@@ -1,5 +1,5 @@
 ﻿using System;
-namespace DevOverflow.Models.Repositories
+namespace EveryQuestionDeservesAnswer.Models.Repositories
 {
     public interface IAnswerRepository
     {
