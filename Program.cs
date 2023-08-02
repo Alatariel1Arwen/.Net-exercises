@@ -1,40 +1,37 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using MyQueueTests.ProjecMyQueue;
+﻿using DevOverflow.Models.Repositories;
 
-var myQueueInteger = new MyQueue<int>();
+var builder = WebApplication.CreateBuilder(args);
 
-myQueueInteger.Enqueue(1);
-myQueueInteger.Enqueue(2);
-myQueueInteger.Enqueue(3);
-myQueueInteger.Enqueue(4);
-myQueueInteger.Enqueue(5);
-myQueueInteger.Enqueue(6);
-
-int dequeuedItem = myQueueInteger.Dequeue();
-Console.WriteLine(dequeuedItem);
-
-int peekedItem = myQueueInteger.Peek();
-Console.WriteLine(peekedItem);
+// Add services to the container.
+builder.Services.AddControllersWithViews();
 
 
-var myQueueString = new MyQueue<string>();
+builder.Services.AddSingleton<IQuestionRepository, QuestionRepository>().AddSingleton<IAnswerRepository, AnswerRepository>();
 
-myQueueString.Enqueue("Monica");
-myQueueString.Enqueue("Chandler");
-myQueueString.Enqueue("Ross");
-myQueueString.Enqueue("Rachel");
-myQueueString.Enqueue("Joey");
-myQueueString.Enqueue("Phoebe");
+var app = builder.Build();
 
-string dequeueString = myQueueString.Dequeue();
-Console.WriteLine(dequeueString);
+// Configure the HTTP request pipeline.
+if (!app.Environment.IsDevelopment())
+{
+    app.UseExceptionHandler("/Home/Error");
+    // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
+    app.UseHsts();
+}
 
-string peekedString = myQueueString.Peek();
-Console.WriteLine(peekedString);
+app.UseHttpsRedirection();
+app.UseStaticFiles();
 
-Console.ReadLine();
+app.UseRouting();
 
+app.UseAuthorization();
+
+app.MapControllerRoute(
+    name: "Question",
+    pattern: "question/details/{id?}",
+    defaults: new { controller = "Question", action = "Details" });
+
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
+
+app.Run();
